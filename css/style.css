@@ -1,0 +1,367 @@
+* { box-sizing: border-box; font-family: Segoe UI, sans-serif; }
+
+body { margin: 0; background: #f4f7fb; }
+
+.topbar {
+  background: linear-gradient(135deg,#1f2f46,#263b57);
+  color: white;
+  padding: 20px 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+
+.menu-btn {
+  display: none;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex: 1;
+}
+
+.logo-img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}
+
+.logo-text {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  flex: 1;
+}
+
+.logo-text strong {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.logo span { 
+  display: block; 
+  opacity: 0.8; 
+  font-size: 15px;
+  margin-top: 4px;
+}
+
+.status { display:flex; align-items:center; gap:10px; }
+
+.dot { width:8px; height:8px; background:#4caf50; border-radius:50%; }
+
+.login-btn {
+  background:#2196f3; color:white; border:none;
+  padding:6px 14px; border-radius:6px;
+}
+
+.container { display:flex; }
+
+.sidebar {
+  width:230px; background:white; padding:20px;
+  border-right:1px solid #ddd;
+}
+
+.sidebar h3 { margin-top:0; }
+
+.filter {
+  display:block; margin:6px 0; padding:6px 12px;
+  border-radius:20px; border:1px solid #ccc;
+  background:white; cursor:pointer;
+}
+
+.filter.active {
+  background:#2196f3; color:white; border-color:#2196f3;
+}
+
+.content { flex:1; padding:24px; }
+
+.stats {
+  display:grid; grid-template-columns:repeat(4,1fr);
+  gap:16px; margin-bottom:20px;
+}
+
+.card {
+  background:white; padding:20px;
+  border-radius:12px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+.blue { border-left:6px solid #2196f3; }
+.orange { border-left:6px solid #ff9800; }
+.red { border-left:6px solid #f44336; }
+
+.search-bar {
+  background:white; padding:16px;
+  border-radius:12px; margin-bottom:20px;
+  display:flex; justify-content:space-between;
+}
+
+#results.grid {
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(250px,1fr));
+  gap:16px;
+}
+
+.chemical {
+  background:white; padding:16px;
+  border-radius:10px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.chemical:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+
+.search-box {
+  display: flex;
+  align-items: center;
+  width: 60%;
+  background: #f4f7fb;
+  border-radius: 30px;
+  padding: 6px 10px;
+}
+
+#searchInput {
+  flex: 1;
+  border: none;
+  background: transparent;
+  padding: 10px 14px;
+  font-size: 15px;
+  outline: none;
+}
+
+#searchBtn {
+  background: #2196f3;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+#searchBtn:hover {
+  background: #1976d2;
+}
+
+/* Suggestions dropdown */
+.search-wrapper {
+  position: relative;
+  width: 60%;
+}
+
+.suggestions {
+  position: absolute;
+  top: 100%;           /* appears below search bar */
+  left: 0;
+  width: 100%;
+  background: white;
+  margin-top: 6px;
+  border-radius: 10px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+  display: none;
+  z-index: 20;
+}
+
+.suggestion-item {
+  padding: 10px 14px;
+  cursor: pointer;
+}
+
+.suggestion-item:hover {
+  background: #eef3ff;
+}
+
+@media (max-width: 768px) {
+
+  /* Header adjustments for mobile */
+  .topbar {
+    padding: 12px 16px;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .logo {
+    gap: 8px;
+    flex: 1 1 auto;
+    order: 1;
+  }
+
+  .logo-img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .logo-text strong {
+    font-size: 16px;
+  }
+
+  .logo span {
+    font-size: 12px;
+  }
+
+  .menu-btn {
+    display: block;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 0;
+    order: 2;
+  }
+
+  .status {
+    order: 3;
+    width: 100%;
+    justify-content: flex-end;
+    gap: 8px;
+    font-size: 12px;
+  }
+
+  .login-btn {
+    padding: 4px 10px;
+    font-size: 12px;
+  }
+
+  /* Layout becomes full width */
+  .container {
+    flex-direction: column;
+  }
+
+  /* Sidebar hidden by default */
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    height: 100%;
+    width: 260px;
+    background: white;
+    z-index: 100;
+    transition: left 0.3s ease;
+    box-shadow: 4px 0 12px rgba(0,0,0,0.2);
+  }
+
+  /* Sidebar visible when active */
+  .sidebar.active {
+    left: 0;
+  }
+
+  /* Content takes full screen */
+  .content {
+    width: 100%;
+    padding: 16px;
+  }
+
+  /* Stats cards in 2 rows on mobile */
+  .stats {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+
+  .card {
+    padding: 16px;
+  }
+
+  .card h2 {
+    margin: 0 0 8px 0;
+    font-size: 24px;
+  }
+
+  .card p {
+    margin: 0;
+    font-size: 13px;
+  }
+
+  /* Search bar FULL WIDTH */
+  .search-wrapper {
+    width: 100%;
+  }
+
+  .search-box {
+    width: 100%;
+    padding: 10px;
+  }
+
+  #searchInput {
+    font-size: 16px; /* better tapping */
+  }
+
+  #searchBtn {
+    padding: 12px 16px;
+  }
+
+  /* Results single column */
+  #results.grid {
+    grid-template-columns: 1fr;
+  }
+
+  button, .filter {
+  min-height: 44px; /* Apple tap standard */
+  }
+
+}
+
+/* Footer Styling */
+.footer {
+  background: linear-gradient(135deg, #1f2f46, #263b57);
+  color: white;
+  padding: 30px 24px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.footer-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.footer-text {
+  font-size: 13px;
+  line-height: 1.6;
+  opacity: 0.9;
+  margin: 0 0 20px 0;
+  letter-spacing: 0.3px;
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.footer-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 20px;
+  transition: all 0.3s ease;
+}
+
+.footer-icon-img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.footer-icons a:hover {
+  background: rgba(255, 255, 255, 0.4);
+  transform: scale(1.1);
+}

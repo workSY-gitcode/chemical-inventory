@@ -1,0 +1,2702 @@
+[
+  {
+    "Chemical_Name": "Acetic acid glacial",
+    "Formula_Composition": "CH3COOH",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Concentrated acetic acid; strong irritant"
+  },
+  {
+    "Chemical_Name": "Acetic acid",
+    "Formula_Composition": "CH3COOH",
+    "Quantity": "2L",
+    "Stock_Status": "Available",
+    "Location": "Section 6 - Lower Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Weak organic acid; lab reagent"
+  },
+  {
+    "Chemical_Name": "Acetocarmine",
+    "Formula_Composition": "Acetic acid; carmine; water",
+    "Quantity": "100 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Chromosome staining dye"
+  },
+  {
+    "Chemical_Name": "Acetone",
+    "Formula_Composition": "(CH3)2CO",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Volatile organic solvent"
+  },
+  {
+    "Chemical_Name": "Acetone",
+    "Formula_Composition": "(CH3)2CO",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Volatile organic solvent"
+  },
+  {
+    "Chemical_Name": "Acrylamide",
+    "Formula_Composition": "C3H5NO",
+    "Quantity": "80-90 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Carcinogen",
+    "Description": "Polyacrylamide gel monomer"
+  },
+  {
+    "Chemical_Name": "Agar agar",
+    "Formula_Composition": "C14H24O9",
+    "Quantity": "300 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Microbial culture solidifying agent"
+  },
+  {
+    "Chemical_Name": "Agar agar type 1",
+    "Formula_Composition": "C14H24O9",
+    "Quantity": "200 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Microbial culture solidifying agent"
+  },
+  {
+    "Chemical_Name": "Agarose",
+    "Formula_Composition": "C24H38O19",
+    "Quantity": "200 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Gel electrophoresis matrix"
+  },
+  {
+    "Chemical_Name": "Agarose medium type 1",
+    "Formula_Composition": "C24H38O19",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Gel electrophoresis matrix"
+  },
+  {
+    "Chemical_Name": "Agarose special low eeo",
+    "Formula_Composition": "C24H38O19",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Gel electrophoresis matrix"
+  },
+  {
+    "Chemical_Name": "Albumin fraction V",
+    "Formula_Composition": "C6H8N2O4",
+    "Quantity": "1 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Protein standard / blocking agent"
+  },
+  {
+    "Chemical_Name": "Ambistryn",
+    "Formula_Composition": "C21H39N17O2.H2SO4",
+    "Quantity": "0.5 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Irritant � Antibiotic reagent"
+  },
+  {
+    "Chemical_Name": "Ammonia liquid",
+    "Formula_Composition": "NH3",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Inflammable",
+    "Description": "Corrosive / Irritant � Strong alkaline solution"
+  },
+  {
+    "Chemical_Name": "Ammonia solution 28-30%",
+    "Formula_Composition": "NH4OH",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Inflammable",
+    "Description": "Corrosive / Irritant � Strong alkaline solution"
+  },
+  {
+    "Chemical_Name": "Ammonium chloride extra pure",
+    "Formula_Composition": "NH4Cl",
+    "Quantity": "500 gram",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Irritant � Buffer component"
+  },
+  {
+    "Chemical_Name": "Ammonium dihydrogen orthophosphate",
+    "Formula_Composition": "(NH4)H2PO4",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffer salt"
+  },
+  {
+    "Chemical_Name": "Ammonium ferrous sulphate crystal",
+    "Formula_Composition": "Fe(NH4)2(SO4)2.6H2O.",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Reducing salt (Mohr�s salt)"
+  },
+  {
+    "Chemical_Name": "Ammonium ferrous sulphate hexahydrate",
+    "Formula_Composition": "(NH4)2Fe(SO4)2(H2O)6",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Reducing salt (Mohr�s salt)"
+  },
+  {
+    "Chemical_Name": "Ammonium molybdate tetrahydrate",
+    "Formula_Composition": "(NH4)6Mo7O24·4H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Phosphate detection reagent"
+  },
+  {
+    "Chemical_Name": "Ammonium nitrate crystal",
+    "Formula_Composition": "NH4NO3",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Oxidizer",
+    "Description": "Strong oxidizing fertilizer salt"
+  },
+  {
+    "Chemical_Name": "Ammonium nitrate powder",
+    "Formula_Composition": "NH4NO3",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Oxidizer",
+    "Description": "Strong oxidizing fertilizer salt"
+  },
+  {
+    "Chemical_Name": "Ammonium purpurate",
+    "Formula_Composition": "NH4C8H4N5O6",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Metal ion indicator"
+  },
+  {
+    "Chemical_Name": "Ammonium sulphate",
+    "Formula_Composition": "(NH4)2SO4",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Protein precipitation salt"
+  },
+  {
+    "Chemical_Name": "Amylum",
+    "Formula_Composition": "(C6H10O5)n",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Polysaccharide indicator"
+  },
+  {
+    "Chemical_Name": "Anthrone",
+    "Formula_Composition": "C14H10O",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Carbohydrate estimation reagent"
+  },
+  {
+    "Chemical_Name": "Antifungal assay agar",
+    "Formula_Composition": "Dextrose (Glucose) · Sodium citrate · Potassium dihydrogen phosphate  · Citric acid · Tryptone",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Microbial culture medium"
+  },
+  {
+    "Chemical_Name": "Beta- alanine",
+    "Formula_Composition": "C3H7NO2",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Amino acid derivative"
+  },
+  {
+    "Chemical_Name": "L - arginine",
+    "Formula_Composition": "C6H14N4O2",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Basic amino acid"
+  },
+  {
+    "Chemical_Name": "L- arginine",
+    "Formula_Composition": "C6H14N4O2",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Basic amino acid"
+  },
+  {
+    "Chemical_Name": "L- ascorbic acid",
+    "Formula_Composition": "HC6H7O6",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Reducing agent antioxidant"
+  },
+  {
+    "Chemical_Name": "L- aspartic acid",
+    "Formula_Composition": "C4H7NO4",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Acidic amino acid"
+  },
+  {
+    "Chemical_Name": "L- aspartic pure",
+    "Formula_Composition": "C4H7NO4",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Acidic amino acid"
+  },
+  {
+    "Chemical_Name": "L-ascorbic acid",
+    "Formula_Composition": "HC6H7O6",
+    "Quantity": "50 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Reducing agent antioxidant"
+  },
+  {
+    "Chemical_Name": "N- acetyl L- cysteine",
+    "Formula_Composition": "C5H9NO3S",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Antioxidant thiol compound"
+  },
+  {
+    "Chemical_Name": "N- acetyl L- cysteine",
+    "Formula_Composition": "C5H9NO3S",
+    "Quantity": "5 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Antioxidant thiol compound"
+  },
+  {
+    "Chemical_Name": "5 Bromouracil",
+    "Formula_Composition": "C4H3BrN2O2",
+    "Quantity": "1 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "DNA base analog"
+  },
+  {
+    "Chemical_Name": "Benedict's qualitative analytical reagent",
+    "Formula_Composition": "Mixture of sodium carbonate; sodium citrate; and copper(II) sulfate pentahydrate",
+    "Quantity": "300 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary leve",
+    "Description": "Reducing sugar test solution"
+  },
+  {
+    "Chemical_Name": "Benedict's qualitative analytical reagent",
+    "Formula_Composition": "Mixture of sodium carbonate; sodium citrate; and copper(II) sulfate pentahydrate",
+    "Quantity": "400 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary leve",
+    "Description": "Reducing sugar test solution"
+  },
+  {
+    "Chemical_Name": "Bile esculin agar",
+    "Formula_Composition": "Agar; esculin; ferric citrate; meat extract; meat peptone;+B66 ox-bile;",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary leve",
+    "Description": "Enterococcus detection medium"
+  },
+  {
+    "Chemical_Name": "Bile salt agar",
+    "Formula_Composition": "Peptic digest of animal tissue; Meat extract; Sodium chloride ; Sodium taurocholate",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary leve",
+    "Description": "Selective microbial medium"
+  },
+  {
+    "Chemical_Name": "Bismuth 3 nitrate pentahydrate",
+    "Formula_Composition": "BiH10N3O14",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Oxidizer",
+    "Description": "Heavy metal nitrate salt"
+  },
+  {
+    "Chemical_Name": "Biurette",
+    "Formula_Composition": "Sodium hydroxide (NaOH) and hydrated copper(II) sulfate; potassium sodium tartrate",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Protein test compound"
+  },
+  {
+    "Chemical_Name": "Blocking powder",
+    "Formula_Composition": "",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "ELISA blocking agent"
+  },
+  {
+    "Chemical_Name": "Blood agar base",
+    "Formula_Composition": "Nutrient substrate (heart extract and peptones); sodium chloride; agar-agar",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Enriched culture medium"
+  },
+  {
+    "Chemical_Name": "Blood agar base",
+    "Formula_Composition": "Nutrient substrate (heart extract and peptones); sodium chloride; agar-agar",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Enriched culture medium"
+  },
+  {
+    "Chemical_Name": "Blood agar base -",
+    "Formula_Composition": "Nutrient substrate (heart extract and peptones); sodium chloride; agar-agar",
+    "Quantity": "50g",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Enriched culture medium"
+  },
+  {
+    "Chemical_Name": "Boric acid",
+    "Formula_Composition": "H3BO3",
+    "Quantity": "500 gm *2",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Weak antiseptic acid"
+  },
+  {
+    "Chemical_Name": "Boric acid extra pure",
+    "Formula_Composition": "H3BO3",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Weak antiseptic acid"
+  },
+  {
+    "Chemical_Name": "Boric powder",
+    "Formula_Composition": "H3BO3",
+    "Quantity": "200 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Weak antiseptic acid"
+  },
+  {
+    "Chemical_Name": "Bovine albumin serum",
+    "Formula_Composition": "",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": ""
+  },
+  {
+    "Chemical_Name": "Brain heart infusion broth",
+    "Formula_Composition": "Peptic Digest of Animal Tissue; Pancreatic Digest of Casein; Sodium Chloride; Glucose; Disodium Hydrogen Phosphate; Agar",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Nutrient-rich medium"
+  },
+  {
+    "Chemical_Name": "Brilliant green bile broth 2%",
+    "Formula_Composition": "Peptone; Lactose; Bile; Brilliant green",
+    "Quantity": "100gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Coliform detection medium"
+  },
+  {
+    "Chemical_Name": "Bromo thymol blue indicator",
+    "Formula_Composition": "C27H28Br2O5S",
+    "Quantity": "125 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "pH indicator dye"
+  },
+  {
+    "Chemical_Name": "Bromocresol green",
+    "Formula_Composition": "C21H14Br4O5S",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Acid-base indicator"
+  },
+  {
+    "Chemical_Name": "Bromocresol green indicator",
+    "Formula_Composition": "C21H14Br4O5S",
+    "Quantity": "5 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Acid-base indicator"
+  },
+  {
+    "Chemical_Name": "Bromocresol green sodium salt",
+    "Formula_Composition": "C21H13Br4NaO5S",
+    "Quantity": "5 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Acid-base indicator"
+  },
+  {
+    "Chemical_Name": "Bromocresol purple 0.04%",
+    "Formula_Composition": "C21H15Br2NaO5S",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Acid-base indicator"
+  },
+  {
+    "Chemical_Name": "Bromophenol blue",
+    "Formula_Composition": "C19H10Br4O5S",
+    "Quantity": "25 gm *2",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Tracking dye"
+  },
+  {
+    "Chemical_Name": "Bromophenol blue pH 3-4.6",
+    "Formula_Composition": "C19H10Br4O5S",
+    "Quantity": "20 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Tracking dye"
+  },
+  {
+    "Chemical_Name": "Bovine serum albumin",
+    "Formula_Composition": "",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": ""
+  },
+  {
+    "Chemical_Name": "Buffer capsule ph 4",
+    "Formula_Composition": "",
+    "Quantity": "",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Calibration standard buffers"
+  },
+  {
+    "Chemical_Name": "Buffer capsule ph 4",
+    "Formula_Composition": "",
+    "Quantity": "",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Calibration standard buffers"
+  },
+  {
+    "Chemical_Name": "Buffer capsule ph 7",
+    "Formula_Composition": "",
+    "Quantity": "",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Calibration standard buffers"
+  },
+  {
+    "Chemical_Name": "Buffer capsule ph 7",
+    "Formula_Composition": "",
+    "Quantity": "",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Calibration standard buffers"
+  },
+  {
+    "Chemical_Name": "Buffer capsule ph 9.2",
+    "Formula_Composition": "",
+    "Quantity": "",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Calibration standard buffers"
+  },
+  {
+    "Chemical_Name": "Buffer capsule ph 9.2 +- 0.05",
+    "Formula_Composition": "",
+    "Quantity": "",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Calibration standard buffers"
+  },
+  {
+    "Chemical_Name": "Buffer pH 4 -",
+    "Formula_Composition": "",
+    "Quantity": "20 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Calibration standard buffers"
+  },
+  {
+    "Chemical_Name": "Buffer pH 4.01 -",
+    "Formula_Composition": "",
+    "Quantity": "60 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Calibration standard buffers"
+  },
+  {
+    "Chemical_Name": "Buffer pH 7 -",
+    "Formula_Composition": "",
+    "Quantity": "60 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Calibration standard buffers"
+  },
+  {
+    "Chemical_Name": "N- butyl alcohol",
+    "Formula_Composition": "C4H9OH",
+    "Quantity": "250 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Organic solvent"
+  },
+  {
+    "Chemical_Name": "N- butyl alcohol",
+    "Formula_Composition": "C4H9OH",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Organic solvent"
+  },
+  {
+    "Chemical_Name": "n-butyl alcohol -",
+    "Formula_Composition": "C4H9OH",
+    "Quantity": "100 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 9 - Middle Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Organic solvent"
+  },
+  {
+    "Chemical_Name": "Cadmium nitrate tetrahydrate",
+    "Formula_Composition": "Cd(NO3)2·4H2O",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Heavy metal toxin",
+    "Description": "Carcinogen / Toxic � Heavy metal oxidizer"
+  },
+  {
+    "Chemical_Name": "Calcium carbonate",
+    "Formula_Composition": "CaCO3",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffering mineral"
+  },
+  {
+    "Chemical_Name": "Calcium chloride dihydrate",
+    "Formula_Composition": "CaCl2.2H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Hygroscopic drying salt"
+  },
+  {
+    "Chemical_Name": "Calcium chloride dihydrate",
+    "Formula_Composition": "CaCl2.2H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Hygroscopic drying salt"
+  },
+  {
+    "Chemical_Name": "Calcium chloride fused",
+    "Formula_Composition": "CaCl2.2H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Hygroscopic drying salt"
+  },
+  {
+    "Chemical_Name": "Calcium sulphate",
+    "Formula_Composition": "CaSO4",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Gypsum salt"
+  },
+  {
+    "Chemical_Name": "Calcium sulphate dihydrate",
+    "Formula_Composition": "CaSO4.2H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Gypsum salt"
+  },
+  {
+    "Chemical_Name": "Capsules stains kit",
+    "Formula_Composition": "",
+    "Quantity": "1 pack",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Bacterial capsule staining set"
+  },
+  {
+    "Chemical_Name": "Carbol fuschin",
+    "Formula_Composition": "C21H22ClN3",
+    "Quantity": "125 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Acid-fast stain"
+  },
+  {
+    "Chemical_Name": "Carbol fushcin",
+    "Formula_Composition": "C21H22ClN3",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Acid-fast stain"
+  },
+  {
+    "Chemical_Name": "Carboxymethylcellulose sodium salt",
+    "Formula_Composition": "C8H15NaO8",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Thickening agent"
+  },
+  {
+    "Chemical_Name": "Carmine",
+    "Formula_Composition": "C22H20O13",
+    "Quantity": "5 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Biological stain"
+  },
+  {
+    "Chemical_Name": "Chloroform",
+    "Formula_Composition": "CHCl3",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 6 - Lower Rack",
+    "Hazard_Status": "Carcinogen",
+    "Description": "Volatile anesthetic solvent"
+  },
+  {
+    "Chemical_Name": "Chloramphenicol",
+    "Formula_Composition": "C11H12Cl2N2O5",
+    "Quantity": "5 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Antibiotic toxin",
+    "Description": "Broad-spectrum antibiotic"
+  },
+  {
+    "Chemical_Name": "Chromium trioxide",
+    "Formula_Composition": "CrO3",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Carcinogen",
+    "Description": "Strong oxidizing chromium(VI) compound"
+  },
+  {
+    "Chemical_Name": "Cobaltous chloride hexahydrate",
+    "Formula_Composition": "Cl2CoH12O6",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Hydration indicator salt"
+  },
+  {
+    "Chemical_Name": "Colchimine",
+    "Formula_Composition": "C22H25NO6",
+    "Quantity": "1 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Mitotic inhibitor"
+  },
+  {
+    "Chemical_Name": "Congo red",
+    "Formula_Composition": "C32H22N6Na2O6S2",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Amyloid staining dye"
+  },
+  {
+    "Chemical_Name": "Congo red indicator",
+    "Formula_Composition": "C32H22N6Na2O6S2",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Amyloid staining dye"
+  },
+  {
+    "Chemical_Name": "Congo Red 1% aq",
+    "Formula_Composition": "C32H22N6Na2O6S2",
+    "Quantity": "125ml",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Amyloid staining dye"
+  },
+  {
+    "Chemical_Name": "Coomasie brilliant blue",
+    "Formula_Composition": "C47H48N3NaO7S",
+    "Quantity": "25 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Protein gel stain"
+  },
+  {
+    "Chemical_Name": "Copper (II) nitrate trihydrate",
+    "Formula_Composition": "Cu(NO3)2.3 H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Copper salt"
+  },
+  {
+    "Chemical_Name": "Copper (II) sulphate pentahydrate",
+    "Formula_Composition": "CuSO4.5H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Fungicide / lab reagent"
+  },
+  {
+    "Chemical_Name": "Copper (II) suphate",
+    "Formula_Composition": "CuSO4",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Fungicide / lab reagent"
+  },
+  {
+    "Chemical_Name": "Corn meal agar",
+    "Formula_Composition": "Yeast extract; KH2PO4; MgSO4•7H2O; soluble starch; agar",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Fungal culture medium"
+  },
+  {
+    "Chemical_Name": "Copper (II) sulphate pentahydrate",
+    "Formula_Composition": "CuSO4.5H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Fungicide / lab reagent"
+  },
+  {
+    "Chemical_Name": "Crystal violet practical grade",
+    "Formula_Composition": "C25H30ClN3",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Gram staining dye"
+  },
+  {
+    "Chemical_Name": "CTAB (Cetyltrimethylammonium bromide)",
+    "Formula_Composition": "C19H42BrN",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Cationic detergent; DNA extraction"
+  },
+  {
+    "Chemical_Name": "Cupric sulphate extra pure",
+    "Formula_Composition": "CuSO4",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Copper salt reagent"
+  },
+  {
+    "Chemical_Name": "Cupric suphate",
+    "Formula_Composition": "CuSO4",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Copper salt reagent"
+  },
+  {
+    "Chemical_Name": "L cystine",
+    "Formula_Composition": "C6H12N2O4S2",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Sulfur-containing amino acid"
+  },
+  {
+    "Chemical_Name": "1-4- dichloro benzene",
+    "Formula_Composition": "C6H4Cl2",
+    "Quantity": "400 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Volatile chlorinated aromatic compound"
+  },
+  {
+    "Chemical_Name": "2-4 dichloro phenoxyacetic acid",
+    "Formula_Composition": "C8H6Cl2O3",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Synthetic plant growth herbicide"
+  },
+  {
+    "Chemical_Name": "5-5- Dithiobis (2- nitrobenzoic acid)",
+    "Formula_Composition": "C14H8N2O8S2",
+    "Quantity": "1gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Thiol detection reagent (Ellman�s reagent)"
+  },
+  {
+    "Chemical_Name": "Destaining solution",
+    "Formula_Composition": "",
+    "Quantity": "100 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Alcohol-based gel destainer"
+  },
+  {
+    "Chemical_Name": "Dextrose anhydrous purified  (Glucose)",
+    "Formula_Composition": "C6H12O6",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Energy source carbohydrate"
+  },
+  {
+    "Chemical_Name": "Diethyl ether",
+    "Formula_Composition": "(C2H5)2O",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Volatile organic solvent"
+  },
+  {
+    "Chemical_Name": "Dimethyl sulphoxide",
+    "Formula_Composition": "C2H6OS",
+    "Quantity": "500 ml *2",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Polar aprotic solvent"
+  },
+  {
+    "Chemical_Name": "Diphenylamine",
+    "Formula_Composition": "C12H11N",
+    "Quantity": "200 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Nitrate detection reagent"
+  },
+  {
+    "Chemical_Name": "Diphenylamine",
+    "Formula_Composition": "C12H11N",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Nitrate detection reagent"
+  },
+  {
+    "Chemical_Name": "Diphenylamine",
+    "Formula_Composition": "C12H11N",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Nitrate detection reagent"
+  },
+  {
+    "Chemical_Name": "Dpx mountant",
+    "Formula_Composition": "",
+    "Quantity": "250 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Microscopy mounting medium"
+  },
+  {
+    "Chemical_Name": "EMB agar",
+    "Formula_Composition": "Peptone; lactose; dipotassium phosphate; eosin Y (dye); methylene blue (dye); and agar",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Selective coliform detection medium"
+  },
+  {
+    "Chemical_Name": "EDTA disodium dihydrate",
+    "Formula_Composition": "C10H18N2Na2O10",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Metal chelating agent"
+  },
+  {
+    "Chemical_Name": "Ethanol",
+    "Formula_Composition": "CH3CH2OH",
+    "Quantity": "500 ml *10",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Laboratory solvent & disinfectant"
+  },
+  {
+    "Chemical_Name": "EMB agar",
+    "Formula_Composition": "peptone; lactose; dipotassium phosphate; eosin Y (dye); methylene blue (dye); and agar",
+    "Quantity": "50 gm *2",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Selective coliform detection medium"
+  },
+  {
+    "Chemical_Name": "EMB agar",
+    "Formula_Composition": "peptone; lactose; dipotassium phosphate; eosin Y (dye); methylene blue (dye); and agar",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Selective coliform detection medium"
+  },
+  {
+    "Chemical_Name": "Eosin",
+    "Formula_Composition": "C20H6Br4Na2O5",
+    "Quantity": "125 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Cytoplasmic stain dye"
+  },
+  {
+    "Chemical_Name": "Ethidium Bromide (EtBr)",
+    "Formula_Composition": "C21H20BrN3",
+    "Quantity": "1gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Carcinogen",
+    "Description": "DNA intercalating fluorescent dye"
+  },
+  {
+    "Chemical_Name": "Ezee blue gel stainer",
+    "Formula_Composition": "",
+    "Quantity": "200 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Safe protein gel stain"
+  },
+  {
+    "Chemical_Name": "Formaldehyde solution",
+    "Formula_Composition": "CH2O",
+    "Quantity": "5L",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Carcinogen",
+    "Description": "Aqueous formalin fixative"
+  },
+  {
+    "Chemical_Name": "Felhing solution no1",
+    "Formula_Composition": "CuSO4",
+    "Quantity": "500ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Copper sulphate sugar reagent"
+  },
+  {
+    "Chemical_Name": "Felhing solution No2",
+    "Formula_Composition": "KNaC4H4O6·4H2O in NaOH",
+    "Quantity": "500ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Alkaline tartrate solution"
+  },
+  {
+    "Chemical_Name": "Ferric chloride",
+    "Formula_Composition": "FeCl3",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Strong Lewis acid reagent"
+  },
+  {
+    "Chemical_Name": "Ferric chloride anhydrous",
+    "Formula_Composition": "FeCl 3(H2O)x",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Strong Lewis acid reagent"
+  },
+  {
+    "Chemical_Name": "Ferrous Sulphate heptahydrate",
+    "Formula_Composition": "FeSO4 7H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Iron(II) salt"
+  },
+  {
+    "Chemical_Name": "Folin and wu's alkaline copper solution",
+    "Formula_Composition": "Sodium carbonate; Tartaric acid; Sulfato de cobre; water",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Glucose estimation reagent"
+  },
+  {
+    "Chemical_Name": "Folin ciocalteu's phenol reagent",
+    "Formula_Composition": "Sodium tungstate; sodium molybdate; 85% phosphoric acid; hydrochloric acid; lithium sulfate; and bromine",
+    "Quantity": "100 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Total phenol estimation reagent"
+  },
+  {
+    "Chemical_Name": "Formaldehyde",
+    "Formula_Composition": "CH2O",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Upper Rack",
+    "Hazard_Status": "Carcinogen",
+    "Description": "Tissue fixative preservative"
+  },
+  {
+    "Chemical_Name": "Glycine",
+    "Formula_Composition": "C2H5NO2",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Simple amino acid buffer component"
+  },
+  {
+    "Chemical_Name": "Gram's crystal violet",
+    "Formula_Composition": "C25N3H30Cl",
+    "Quantity": "100 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Primary Gram staining dye"
+  },
+  {
+    "Chemical_Name": "Gram's decolourizer",
+    "Formula_Composition": "CH3CH2OH",
+    "Quantity": "100 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Alcohol-acetone mixture"
+  },
+  {
+    "Chemical_Name": "Gram's iodine",
+    "Formula_Composition": "I�",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Mordant for Gram staining"
+  },
+  {
+    "Chemical_Name": "Glycerol 98% purified",
+    "Formula_Composition": "C6H8O3",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Viscous humectant solvent"
+  },
+  {
+    "Chemical_Name": "Gram's crystal violet",
+    "Formula_Composition": "C25N3H30Cl",
+    "Quantity": "125 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Primary Gram staining dye"
+  },
+  {
+    "Chemical_Name": "D- Glucose (Dextrose)",
+    "Formula_Composition": "C6H12O6",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Simple reducing sugar"
+  },
+  {
+    "Chemical_Name": "Gel filtration buffer",
+    "Formula_Composition": "",
+    "Quantity": "125 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Chromatography separation buffer"
+  },
+  {
+    "Chemical_Name": "Gelatin",
+    "Formula_Composition": "C6H12O6",
+    "Quantity": "130 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Protein-based gelling agent"
+  },
+  {
+    "Chemical_Name": "Gelatin extra pure",
+    "Formula_Composition": "C6H12O6",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Protein-based gelling agent"
+  },
+  {
+    "Chemical_Name": "Giemsa stain",
+    "Formula_Composition": "C14H14ClN3S",
+    "Quantity": "35 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Blood smear staining dye"
+  },
+  {
+    "Chemical_Name": "Glycerol 85% AR",
+    "Formula_Composition": "C6H8O3",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Viscous humectant solvent"
+  },
+  {
+    "Chemical_Name": "Glycine",
+    "Formula_Composition": "C2H5NO2",
+    "Quantity": "500 gm * 4",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Simple amino acid buffer component"
+  },
+  {
+    "Chemical_Name": "Gram's iodine",
+    "Formula_Composition": "I�",
+    "Quantity": "500 ml * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Mordant for Gram staining"
+  },
+  {
+    "Chemical_Name": "Hematoxylin",
+    "Formula_Composition": "C16H14O6·xH2O",
+    "Quantity": "125 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Nuclear staining dye"
+  },
+  {
+    "Chemical_Name": "Hydrochloric acid",
+    "Formula_Composition": "HCl",
+    "Quantity": "50 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Inflammable",
+    "Description": "Strong mineral acid"
+  },
+  {
+    "Chemical_Name": "Haematoxylin stain",
+    "Formula_Composition": "C16H14O6",
+    "Quantity": "5 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Histology nuclear stain solution"
+  },
+  {
+    "Chemical_Name": "Heparin sodium",
+    "Formula_Composition": "C26H41NO34S4",
+    "Quantity": "1 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Anticoagulant reagent"
+  },
+  {
+    "Chemical_Name": "HM peptone powder",
+    "Formula_Composition": "a mixture of peptides and amino acids; nucleotide fractions; organic acids; minerals and some vitamins",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Microbial nutrient source"
+  },
+  {
+    "Chemical_Name": "Hydrogen peroxide 50%",
+    "Formula_Composition": "H2O2",
+    "Quantity": "250 ml *4",
+    "Stock_Status": "Available",
+    "Location": "Section 11 - Middle Rack",
+    "Hazard_Status": "Inflammable",
+    "Description": "Powerful bleaching agent"
+  },
+  {
+    "Chemical_Name": "Iodine monochloride",
+    "Formula_Composition": "ICl",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Strong halogenating agent"
+  },
+  {
+    "Chemical_Name": "Iodine",
+    "Formula_Composition": "I�",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Antiseptic halogen reagent"
+  },
+  {
+    "Chemical_Name": "Isoamyl alcohol",
+    "Formula_Composition": "C5H12O",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Lower Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Organic extraction solvent"
+  },
+  {
+    "Chemical_Name": "King's Medium A base",
+    "Formula_Composition": "Proteose Peptone ; Potassium Sulphate; Magnesium Chloride Anhydrous ; Agar",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Pseudomonas culture medium"
+  },
+  {
+    "Chemical_Name": "Kovac's indole reagent",
+    "Formula_Composition": "C9H11NO",
+    "Quantity": "25 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Indole detection reagent"
+  },
+  {
+    "Chemical_Name": "L leucine",
+    "Formula_Composition": "C6H13NO2",
+    "Quantity": "25 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Essential amino acid"
+  },
+  {
+    "Chemical_Name": "Lactobacilli agar",
+    "Formula_Composition": "Casein enzymic hydrolysate; yeast extract and dextrose",
+    "Quantity": "500 mg * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Selective probiotic culture medium"
+  },
+  {
+    "Chemical_Name": "Lactophenol cotton blue",
+    "Formula_Composition": "Distilled water 50ml; Cotton Blue (Aniline Blue) and Phenol Crystals (C6H5O4)",
+    "Quantity": "100 ml * 5",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Fungal staining reagent"
+  },
+  {
+    "Chemical_Name": "Lactose broth",
+    "Formula_Composition": "Enzymatic Digest of Gelatin; Beef Extract and Lactose",
+    "Quantity": "100g",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Coliform detection medium"
+  },
+  {
+    "Chemical_Name": "Lactose broth",
+    "Formula_Composition": "Enzymatic Digest of Gelatin; Beef Extract and Lactose",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Coliform detection medium"
+  },
+  {
+    "Chemical_Name": "Lactose monohydrate",
+    "Formula_Composition": "C12H24O12",
+    "Quantity": "500g * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Milk sugar carbohydrate"
+  },
+  {
+    "Chemical_Name": "Lauryl sulphate sodium salt",
+    "Formula_Composition": "C12H25NaO4S",
+    "Quantity": "200 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Upper Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Anionic detergent"
+  },
+  {
+    "Chemical_Name": "Lead (II) acetate",
+    "Formula_Composition": "Pb(C2H3O2)2",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Heavy metal salt"
+  },
+  {
+    "Chemical_Name": "Leishman eosin Methylene blue solution",
+    "Formula_Composition": "a mixture of eosin (an acidic stain); and methylene blue (a basic stain) in alcohol",
+    "Quantity": "250 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Blood smear stain"
+  },
+  {
+    "Chemical_Name": "Leishman stain",
+    "Formula_Composition": "a mixture of eosin (an acidic stain); and methylene blue (a basic stain) in alcohol",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Hematology staining dye"
+  },
+  {
+    "Chemical_Name": "Leishman's stain",
+    "Formula_Composition": "a mixture of eosin (an acidic stain); and methylene blue (a basic stain) in alcohol",
+    "Quantity": "25 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Hematology staining dye"
+  },
+  {
+    "Chemical_Name": "Lignin sulphonic acid sodium salt",
+    "Formula_Composition": "C20H24Na2O10S2",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Upper Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Lignin derivative dispersant"
+  },
+  {
+    "Chemical_Name": "Luria bertani broth miller",
+    "Formula_Composition": "yeast extract; peptone from casein;  sodium chloride; and agar-agar",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Bacterial growth medium"
+  },
+  {
+    "Chemical_Name": "Luria broth",
+    "Formula_Composition": "Tryptone; yeast extract; NaCl; and distilled water",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Bacterial growth medium"
+  },
+  {
+    "Chemical_Name": "D- Manitol",
+    "Formula_Composition": "C6H14O6",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Sugar alcohol osmotic agent"
+  },
+  {
+    "Chemical_Name": "MAC conkey agar",
+    "Formula_Composition": "Peptone from gelatin ; peptone from casein ; peptone from meat ; sodium chloride; lactose ; bile salt mix- ture; neutral red ; crystal violet; agar-agar .",
+    "Quantity": "100 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Selective Gram-negative culture medium"
+  },
+  {
+    "Chemical_Name": "Magnesium hydroxide extra pure",
+    "Formula_Composition": "Mg(OH)2",
+    "Quantity": "1 kg",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Weak alkaline compound"
+  },
+  {
+    "Chemical_Name": "Magnesium sulphate",
+    "Formula_Composition": "MgSO4",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Inorganic sulfate salt"
+  },
+  {
+    "Chemical_Name": "Magnesium sulphate heptahydrate",
+    "Formula_Composition": "MgSO4·7H2O",
+    "Quantity": "500 gm *3",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Inorganic sulfate salt"
+  },
+  {
+    "Chemical_Name": "Malachite green 1%",
+    "Formula_Composition": "C23H25ClN2",
+    "Quantity": "100 ml*2",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Spore staining dye"
+  },
+  {
+    "Chemical_Name": "Manganese sulphate monohydrate",
+    "Formula_Composition": "MnSO4.H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Trace element salt"
+  },
+  {
+    "Chemical_Name": "Mercaptoethanol",
+    "Formula_Composition": "C2H6OS",
+    "Quantity": "100 ml * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Highly toxic thiol",
+    "Description": "Strong reducing agent"
+  },
+  {
+    "Chemical_Name": "Mercuric chloride",
+    "Formula_Composition": "HgCl2",
+    "Quantity": "100 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Extremely toxic",
+    "Description": "Heavy metal disinfectant"
+  },
+  {
+    "Chemical_Name": "Methanol",
+    "Formula_Composition": "CH₃OH",
+    "Quantity": "2.7 L + 2.5L",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Volatile alcohol solvent"
+  },
+  {
+    "Chemical_Name": "Methyl benzoate",
+    "Formula_Composition": "C6H5CO2CH3",
+    "Quantity": "250 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Aromatic ester solvent"
+  },
+  {
+    "Chemical_Name": "Methyl orange indicator",
+    "Formula_Composition": "C14H14N3NaO3S",
+    "Quantity": "125 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Acid-base indicator"
+  },
+  {
+    "Chemical_Name": "Methyl red indicator",
+    "Formula_Composition": "C15H15N3O2",
+    "Quantity": "125 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "pH indicator dye"
+  },
+  {
+    "Chemical_Name": "Methylene Blue",
+    "Formula_Composition": "C16H18ClN3S",
+    "Quantity": "500 ml * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Biological staining dye"
+  },
+  {
+    "Chemical_Name": "Methylene Blue",
+    "Formula_Composition": "C16H18ClN3S",
+    "Quantity": "25 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Biological staining dye"
+  },
+  {
+    "Chemical_Name": "Millon's reagent",
+    "Formula_Composition": "Hg(NO3)2",
+    "Quantity": "125 ml * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Tyrosine detection reagent"
+  },
+  {
+    "Chemical_Name": "Molish reagent",
+    "Formula_Composition": "a solution of ∝- naphthol in ethanol",
+    "Quantity": "2 bottles",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "General carbohydrate test reagent"
+  },
+  {
+    "Chemical_Name": "Mueller Hinton agar",
+    "Formula_Composition": "beef extract; acid casein hydrolysate; starch and agar",
+    "Quantity": "600 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Antibiotic sensitivity testing medium"
+  },
+  {
+    "Chemical_Name": "Murashige & skoog shoot multiplication medium A",
+    "Formula_Composition": "",
+    "Quantity": "50 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Plant tissue culture medium"
+  },
+  {
+    "Chemical_Name": "N-N methylene bis- acrylamide",
+    "Formula_Composition": "C7H10N2O2",
+    "Quantity": "20 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Polyacrylamide crosslinker"
+  },
+  {
+    "Chemical_Name": "Naphthol",
+    "Formula_Composition": "C10H8O",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Organic phenolic compound"
+  },
+  {
+    "Chemical_Name": "Nessler's reagent",
+    "Formula_Composition": "K2HgI4",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Ammonia detection reagent (mercury-based)"
+  },
+  {
+    "Chemical_Name": "Nutrient broth",
+    "Formula_Composition": "Yeast extract; peptone; sodium chloride",
+    "Quantity": "100 gm *7",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "General bacterial growth medium"
+  },
+  {
+    "Chemical_Name": "Nutrient Agar",
+    "Formula_Composition": "Yeast extract; peptone; sodium chloride; Agar",
+    "Quantity": "100 gm * 5",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Solid bacterial culture medium"
+  },
+  {
+    "Chemical_Name": "Orcinol monohydrate",
+    "Formula_Composition": "CH3C6H3-1-3-(OH)2 · H2O",
+    "Quantity": "20 gm *3",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "RNA/carbohydrate detection reagent"
+  },
+  {
+    "Chemical_Name": "2-propanol",
+    "Formula_Composition": "C3H8O",
+    "Quantity": "250 ml * 4",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Volatile disinfectant solvent"
+  },
+  {
+    "Chemical_Name": "Di-potassium hydrogen phosphate",
+    "Formula_Composition": "K2HPO4",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffer component"
+  },
+  {
+    "Chemical_Name": "Periodic acid",
+    "Formula_Composition": "HIO4",
+    "Quantity": "15 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Carbohydrate oxidation reagent"
+  },
+  {
+    "Chemical_Name": "Petroleum ether",
+    "Formula_Composition": "C6H14",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Non-polar solvent mixture"
+  },
+  {
+    "Chemical_Name": "Phenol crystal",
+    "Formula_Composition": "C6H6O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Carcinogen",
+    "Description": "Protein denaturing disinfectant"
+  },
+  {
+    "Chemical_Name": "Phenol crystals",
+    "Formula_Composition": "C6H6O",
+    "Quantity": "250 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Carcinogen",
+    "Description": "Protein denaturing disinfectant"
+  },
+  {
+    "Chemical_Name": "Phenol reagent",
+    "Formula_Composition": "C6H6O",
+    "Quantity": "200 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Corrosive � Protein estimation reagent"
+  },
+  {
+    "Chemical_Name": "Phenol red",
+    "Formula_Composition": "C19H14O5S",
+    "Quantity": "60 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "pH indicator dye"
+  },
+  {
+    "Chemical_Name": "Poly(ethylene glycol)MW 6000",
+    "Formula_Composition": "C2nH4n+2On+1",
+    "Quantity": "500 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Polymer precipitation agent"
+  },
+  {
+    "Chemical_Name": "Poly(ethylene glycol)MW 6000 - 125000",
+    "Formula_Composition": "C2nH4n+2On+1",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "High molecular weight polymer"
+  },
+  {
+    "Chemical_Name": "Polyvinyl Pyrrolidone",
+    "Formula_Composition": "(C6H9NO)n",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Polymer stabilizer"
+  },
+  {
+    "Chemical_Name": "Potassium chloride AR",
+    "Formula_Composition": "KCl",
+    "Quantity": "400 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Electrolyte salt"
+  },
+  {
+    "Chemical_Name": "Potassium dihydrogen orthophosphate",
+    "Formula_Composition": "KH2PO4",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffer component"
+  },
+  {
+    "Chemical_Name": "Potassium dihydrogen orthophosphate anhydrous",
+    "Formula_Composition": "KH2PO4",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffer component"
+  },
+  {
+    "Chemical_Name": "Potassium dihydrogen phosphate",
+    "Formula_Composition": "KH2PO4",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffer component"
+  },
+  {
+    "Chemical_Name": "Potassium ferricyanide pure",
+    "Formula_Composition": "C6FeK3N6",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Redox reagent"
+  },
+  {
+    "Chemical_Name": "Potassium ferrocyanide trihydrate pure",
+    "Formula_Composition": "K4[Fe(CN)6]·3H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Complex ion reagent"
+  },
+  {
+    "Chemical_Name": "Potassium hydroxide pellets",
+    "Formula_Composition": "KOH",
+    "Quantity": "450 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Inflammable",
+    "Description": "Strong alkali"
+  },
+  {
+    "Chemical_Name": "Potassium iodide",
+    "Formula_Composition": "KI",
+    "Quantity": "100 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Iodine solubilizer"
+  },
+  {
+    "Chemical_Name": "Potassium nitrate",
+    "Formula_Composition": "KNO3",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Strong oxidizing salt"
+  },
+  {
+    "Chemical_Name": "Potassium permanganate",
+    "Formula_Composition": "KMnO4",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Powerful oxidizing agent"
+  },
+  {
+    "Chemical_Name": "Potassium phosphate dibasic anhydrous",
+    "Formula_Composition": "HK2O4P",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffering salt"
+  },
+  {
+    "Chemical_Name": "Potassium sodium(+)-tartrate",
+    "Formula_Composition": "KNaC4H4O6·4H2O",
+    "Quantity": "300 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Rochelle salt complexing agent"
+  },
+  {
+    "Chemical_Name": "Potassium sulfate",
+    "Formula_Composition": "K2SO4",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Inorganic sulfate salt"
+  },
+  {
+    "Chemical_Name": "Pseudomonas Hiveg agar",
+    "Formula_Composition": "Peptone ; magnesium chloride ; potassium sulfate ; agar-agar",
+    "Quantity": "50 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Selective bacterial medium"
+  },
+  {
+    "Chemical_Name": "Pyridine",
+    "Formula_Composition": "C5H5N",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Basic heterocyclic solvent"
+  },
+  {
+    "Chemical_Name": "Pyridoxine hydrochloride",
+    "Formula_Composition": "C8H12ClNO",
+    "Quantity": "5 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Vitamin B6 derivative"
+  },
+  {
+    "Chemical_Name": "RBC diluting fluid",
+    "Formula_Composition": "Sodium Sulfate; Sodium Chloride and Mercuric Chloride",
+    "Quantity": "500 ml * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Hematology cell counting reagent"
+  },
+  {
+    "Chemical_Name": "Sodium hydrogen carbonate",
+    "Formula_Composition": "NaHCO3",
+    "Quantity": "500 gm * 4",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Mild alkaline salt"
+  },
+  {
+    "Chemical_Name": "Di sodium hydrogen phosphate anhydrous",
+    "Formula_Composition": "Na2HPO4",
+    "Quantity": "500 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffer component"
+  },
+  {
+    "Chemical_Name": "Sodium thiosulphate",
+    "Formula_Composition": "Na2S2O3",
+    "Quantity": "500 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Iodine neutralizing agent"
+  },
+  {
+    "Chemical_Name": "Sobouraud dextrose agar",
+    "Formula_Composition": "Dextrose; peptone; agar",
+    "Quantity": "250 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Fungal culture medium"
+  },
+  {
+    "Chemical_Name": "Soyabean caesin digest medium",
+    "Formula_Composition": "pancreatic digest of casein and papaic digest of soyabean",
+    "Quantity": "100 gm *2",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Microbial growth medium"
+  },
+  {
+    "Chemical_Name": "Sodium azide",
+    "Formula_Composition": "NaN3",
+    "Quantity": "200 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Metabolic poison",
+    "Description": "Enzyme inhibitor preservative"
+  },
+  {
+    "Chemical_Name": "Sodium hydroxide pellets",
+    "Formula_Composition": "NaOH",
+    "Quantity": "500 gm * 6",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Inflammable",
+    "Description": "Strong alkali"
+  },
+  {
+    "Chemical_Name": "Sodium lauryl sulphate",
+    "Formula_Composition": "C12H25NaO4S",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Anionic detergent"
+  },
+  {
+    "Chemical_Name": "Starch soluble",
+    "Formula_Composition": "(C6H10O5)n",
+    "Quantity": "500 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Polysaccharide indicator"
+  },
+  {
+    "Chemical_Name": "Sodium carbonate anhydrous",
+    "Formula_Composition": "Na2CO3",
+    "Quantity": "500 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Alkaline salt"
+  },
+  {
+    "Chemical_Name": "Sodium nitrate",
+    "Formula_Composition": "NaNO3",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Light-sensitive silver salt"
+  },
+  {
+    "Chemical_Name": "Sodium molybdate dihydrate",
+    "Formula_Composition": "H4MoNa2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Phosphate detection reagent"
+  },
+  {
+    "Chemical_Name": "Silica gel",
+    "Formula_Composition": "SiO2",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Desiccant / drying agent"
+  },
+  {
+    "Chemical_Name": "Sodium chloride",
+    "Formula_Composition": "NaCl",
+    "Quantity": "250 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Common electrolyte salt"
+  },
+  {
+    "Chemical_Name": "Sodium thiosulphate pentahydrate",
+    "Formula_Composition": "Na2S2O3·(H2O)(x)",
+    "Quantity": "500 gm * 4",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Hydrated neutralizing salt"
+  },
+  {
+    "Chemical_Name": "D- sorbitol powder",
+    "Formula_Composition": "C6H14O6",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Sugar alcohol sweetener"
+  },
+  {
+    "Chemical_Name": "Sodium acetate",
+    "Formula_Composition": "C2H3NaO2",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffering salt"
+  },
+  {
+    "Chemical_Name": "Sodium alginate",
+    "Formula_Composition": "(C6H7NaO6)n",
+    "Quantity": "1 Kg",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Gel-forming polysaccharide"
+  },
+  {
+    "Chemical_Name": "Sucrose extra pure",
+    "Formula_Composition": "C12H22O11",
+    "Quantity": "500 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Disaccharide sugar; culture media component"
+  },
+  {
+    "Chemical_Name": "Sodium bisulphite",
+    "Formula_Composition": "NaHSO3",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Reducing agent preservative"
+  },
+  {
+    "Chemical_Name": "Sodium sulphate",
+    "Formula_Composition": "Na2SO4",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Drying agent salt"
+  },
+  {
+    "Chemical_Name": "Di Sodium tartarate",
+    "Formula_Composition": "C4H4Na2O6",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Complexing agent / buffer salt"
+  },
+  {
+    "Chemical_Name": "SM powder",
+    "Formula_Composition": "",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Microbial culture supplement"
+  },
+  {
+    "Chemical_Name": "Sodium acetate trihydrate",
+    "Formula_Composition": "C2H9NaO5",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Hydrated buffer salt"
+  },
+  {
+    "Chemical_Name": "Starch agar",
+    "Formula_Composition": "",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Amylase testing medium"
+  },
+  {
+    "Chemical_Name": "Sodium citrate",
+    "Formula_Composition": "Na3C6H5O7",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Chelating buffer salt"
+  },
+  {
+    "Chemical_Name": "Sulfuric acid",
+    "Formula_Composition": "H2SO4",
+    "Quantity": "2L",
+    "Stock_Status": "Available",
+    "Location": "Section 6 - Lower Rack",
+    "Hazard_Status": "Inflammable",
+    "Description": "Strong mineral acid"
+  },
+  {
+    "Chemical_Name": "Sulfo salicylic acid dihydrate",
+    "Formula_Composition": "HO3SC6H3-2-(OH)CO2H·2H2O",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Protein precipitation reagent"
+  },
+  {
+    "Chemical_Name": "Sodium dihydrogen orthophosphate",
+    "Formula_Composition": "NaH2PO4",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffer component"
+  },
+  {
+    "Chemical_Name": "Sudan III",
+    "Formula_Composition": "C22H16N4O",
+    "Quantity": "75 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Lipid staining dye"
+  },
+  {
+    "Chemical_Name": "Safranin",
+    "Formula_Composition": "C20H19N4·Cl",
+    "Quantity": "500 ml * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Counterstain dye"
+  },
+  {
+    "Chemical_Name": "Schaeffer and Fulton's spore stain kit",
+    "Formula_Composition": "",
+    "Quantity": "2 pack",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Endospore staining reagents"
+  },
+  {
+    "Chemical_Name": "Silver nitrate",
+    "Formula_Composition": "AgNO3",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Toxic to skin/eyes",
+    "Description": "Light-sensitive silver salt"
+  },
+  {
+    "Chemical_Name": "Sodium hypochlorite solution",
+    "Formula_Composition": "NaClO",
+    "Quantity": "5 Ltr",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Upper Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Bleaching disinfectant"
+  },
+  {
+    "Chemical_Name": "Tris buffer",
+    "Formula_Composition": "C4H11NO3",
+    "Quantity": "250 gm * 3",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Common pH buffer system"
+  },
+  {
+    "Chemical_Name": "Tris free base",
+    "Formula_Composition": "C4H11NO3",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffering amine compound"
+  },
+  {
+    "Chemical_Name": "L-Tyrosine",
+    "Formula_Composition": "C9H11NO3",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Aromatic amino acid; protein building block"
+  },
+  {
+    "Chemical_Name": "Tris HCl",
+    "Formula_Composition": "C4H11NO3",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffered Tris salt"
+  },
+  {
+    "Chemical_Name": "Tryptose agar",
+    "Formula_Composition": "a peptone (mixture of amino acids and short peptides) derived by the mixed enzymatic hydrolysis (pancreatic enzymes) of the milk protein casein",
+    "Quantity": "200 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Protein-rich culture medium"
+  },
+  {
+    "Chemical_Name": "Tri Sodium Citrate",
+    "Formula_Composition": "Na3C6H5O7",
+    "Quantity": "200 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Chelating buffer salt / anticoagulant"
+  },
+  {
+    "Chemical_Name": "Thiamine HCl",
+    "Formula_Composition": "C12H18Cl2N4OS",
+    "Quantity": "150 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Vitamin B1 derivative"
+  },
+  {
+    "Chemical_Name": "Tricine",
+    "Formula_Composition": "C6H13NO5",
+    "Quantity": "150 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Biological buffer reagent"
+  },
+  {
+    "Chemical_Name": "L - Tryptophan",
+    "Formula_Composition": "C11H12N2O2",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Essential aromatic amino acid; protein building block"
+  },
+  {
+    "Chemical_Name": "Tryphan blue",
+    "Formula_Composition": "anionic hydrophilic azo dye which has the molecular formula C34H24N6Na4O14S4",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Cell viability staining dye"
+  },
+  {
+    "Chemical_Name": "Tetracycline HCl",
+    "Formula_Composition": "C22H25ClN2O8",
+    "Quantity": "10 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Toxic antibiotic",
+    "Description": "Broad-spectrum antibiotic"
+  },
+  {
+    "Chemical_Name": "Trucks Reagent",
+    "Formula_Composition": "C6H5SO2Cl",
+    "Quantity": "100 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Protein detection reagent"
+  },
+  {
+    "Chemical_Name": "Thyroxine sodium",
+    "Formula_Composition": "C15H11I4NO4",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Thyroid hormone salt"
+  },
+  {
+    "Chemical_Name": "Triton X- 100",
+    "Formula_Composition": "C14H22O(C2H4O)n",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Non-ionic detergent"
+  },
+  {
+    "Chemical_Name": "Thioglycolic acid 80%",
+    "Formula_Composition": "HSCH2COOH",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Corrosive mercaptan",
+    "Description": "Strong reducing agent"
+  },
+  {
+    "Chemical_Name": "N-N-N'-N'- Tetramethyl ethylenediamine",
+    "Formula_Composition": "C6H16N2",
+    "Quantity": "25 ml",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Flammable / Irritant � Polyacrylamide gel polymerization catalyst"
+  },
+  {
+    "Chemical_Name": "Urea",
+    "Formula_Composition": "CH4N2O; NH2CONH2",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Nitrogenous protein denaturant"
+  },
+  {
+    "Chemical_Name": "Urease agar",
+    "Formula_Composition": "",
+    "Quantity": "200 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Urease activity testing medium"
+  },
+  {
+    "Chemical_Name": "Xylene",
+    "Formula_Composition": "C8H10",
+    "Quantity": "250 ml * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Lower Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Histology clearing solvent"
+  },
+  {
+    "Chemical_Name": "Xylene cyanol",
+    "Formula_Composition": "C25H27N2NaO6S2",
+    "Quantity": "250 ml * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "DNA gel tracking dye"
+  },
+  {
+    "Chemical_Name": "Yeast extract powder",
+    "Formula_Composition": "Waste brewer's yeast",
+    "Quantity": "250 gm * 2",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Vitamin-rich microbial nutrient"
+  },
+  {
+    "Chemical_Name": "Yeast manitol agar",
+    "Formula_Composition": "Yeast extract; mannitol; agaar",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Rhizobium selective medium"
+  },
+  {
+    "Chemical_Name": "Zinc nitrate",
+    "Formula_Composition": "Zn(NO3)2",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Zinc salt oxidizing agent"
+  },
+  {
+    "Chemical_Name": "Zinc suphate hepta hydrate",
+    "Formula_Composition": "ZnSO4·7H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Zinc micronutrient salt"
+  },
+  {
+    "Chemical_Name": "Zinc acetate dihydrate",
+    "Formula_Composition": "Zn(CH3COO)2 · 2H2O",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Zinc salt reagent"
+  },
+  {
+    "Chemical_Name": "Zinc acetate dihydrate",
+    "Formula_Composition": "Zn(CH3COO)2 · 2H2O",
+    "Quantity": "250 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Zinc salt reagent"
+  },
+  {
+    "Chemical_Name": "Zinc sulphate heptahydrate",
+    "Formula_Composition": "ZnSO4·7H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 17 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Hydrated zinc sulfate salt"
+  },
+  {
+    "Chemical_Name": "Gram staining kit",
+    "Formula_Composition": "",
+    "Quantity": "1 Pack",
+    "Stock_Status": "Available",
+    "Location": "Section 6 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Complete bacterial staining set"
+  },
+  {
+    "Chemical_Name": "Potassium dichromate",
+    "Formula_Composition": "K2Cr2O7",
+    "Quantity": "400 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Hexavalent chromium compound"
+  },
+  {
+    "Chemical_Name": "Starch Agar",
+    "Formula_Composition": "",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section  15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Amylase activity testing medium"
+  },
+  {
+    "Chemical_Name": "Sodium Bicarbonate",
+    "Formula_Composition": "",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Mild alkaline buffer salt"
+  },
+  {
+    "Chemical_Name": "Peptone B",
+    "Formula_Composition": "",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Protein hydrolysate nutrient"
+  },
+  {
+    "Chemical_Name": "Peptone Bacteriological",
+    "Formula_Composition": "",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Microbial growth nutrient"
+  },
+  {
+    "Chemical_Name": "Magnesium Chloride",
+    "Formula_Composition": "MgCl2",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Electrolyte salt"
+  },
+  {
+    "Chemical_Name": "Potassium Acetate",
+    "Formula_Composition": "CH3COOK",
+    "Quantity": "100 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 14 - Middle Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffering salt"
+  },
+  {
+    "Chemical_Name": "Sodium Dihydrogen Phosphate Dihydrate",
+    "Formula_Composition": "NaH2PO4.2H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 15",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Buffer component"
+  },
+  {
+    "Chemical_Name": "Immersion Oil",
+    "Formula_Composition": "",
+    "Quantity": "30 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 12 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Microscopy lens oil"
+  },
+  {
+    "Chemical_Name": "Isopropyl Alcohol",
+    "Formula_Composition": "C3H8O",
+    "Quantity": "500 ml",
+    "Stock_Status": "Available",
+    "Location": "Section  12 - Lower Rack",
+    "Hazard_Status": "Flammable",
+    "Description": "Disinfectant solvent"
+  },
+  {
+    "Chemical_Name": "Calcium Nitrate Tetrahydrate 98%",
+    "Formula_Composition": "Ca(NO3)2. 4H2O",
+    "Quantity": "500 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 10 - Lower Rack",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Calcium nitrate salt"
+  },
+  {
+    "Chemical_Name": "Ninhydrin (Purity-99%) (2-2-dihydroxyindane-1-3-dione)",
+    "Formula_Composition": "C9H6O4",
+    "Quantity": "10 gm",
+    "Stock_Status": "Available",
+    "Location": "Section 13 - Lower Rack",
+    "Hazard_Status": "Oxidizer",
+    "Description": "Amino acid detection reagent"
+  },
+  {
+    "Chemical_Name": "Indole Butyric Acid (98% Pure)",
+    "Formula_Composition": "",
+    "Quantity": "5 gm",
+    "Stock_Status": "Available",
+    "Location": "Refrigerator 1",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Plant growth regulator"
+  },
+  {
+    "Chemical_Name": "6 - BAP (6-Benzylaminopurine) - 99% Pure",
+    "Formula_Composition": "",
+    "Quantity": "5 gm",
+    "Stock_Status": "Available",
+    "Location": "Refrigerator 1",
+    "Hazard_Status": "Non-Hazardous (Primary level)",
+    "Description": "Cytokinin plant hormone"
+  }
+]

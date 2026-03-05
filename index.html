@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Chemical Inventory - SAC DBT</title>
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="logo">
+    <img src="images/sacdbt.png" alt="SAC DBT Logo" class="logo-img">
+    <div class="logo-text">
+      <strong>CHEMICAL INVENTORY - SAC DBT</strong>
+      <span>Dept. of Biotechnology • St. Aloysius College, Jabalpur</span>
+    </div>
+  </div>
+  <button id="menuToggle" class="menu-btn">☰</button>
+  <div class="status">
+    <span class="dot"></span> Connected
+    <button class="login-btn">Login</button>
+  </div>
+  
+</header>
+
+<div class="container">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <h3>Locations</h3>
+    <div id="locationFilters"></div>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="content">
+
+    <!-- STATS -->
+    <section class="stats">
+      <div class="card blue"><h2 id="totalCount">0</h2><p>Total Chemicals</p></div>
+      <div class="card blue"><h2 id="carcinogenCount">0</h2><p>Carcinogen</p></div>
+      <div class="card orange"><h2 id="flammableCount">0</h2><p>Flammable</p></div>
+      <div class="card red"><h2 id="inflammableCount">0</h2><p>Inflammable</p></div>
+    </section>
+
+    <!-- SEARCH -->
+    <div class="search-bar">
+      <div class="search-wrapper">
+        <div class="search-box">
+          <input
+          type="text"
+          id="searchInput"
+          placeholder="Search chemical name or composition..."
+          autocomplete="off"
+          />
+          <button id="searchBtn">🔍</button>
+        </div>
+
+        <div id="suggestions" class="suggestions"></div>
+      </div>
+    </div>
+
+    <div id="resultCount">0 Chemicals Found</div>
+
+
+
+    <!-- RESULTS -->
+    <section id="results" class="grid"></section>
+
+  </main>
+</div>
+
+<script src="js/data.js"></script>
+<script src="js/render.js"></script>
+<script src="js/filters.js"></script>
+<script src="js/search.js"></script>
+<script src="js/stats.js"></script>
+<script src="js/mobile.js"></script>
+
+<footer class="footer">
+  <div class="footer-content">
+    <p class="footer-text">
+      Jointly developed by Surbhi Yadav (Batch of 26-27), Enosh Phillips and Prakash Lange for Dept. Of Biotechnology.<br>
+      Copyright © Dept. Of Biotechnology, St. Aloysius College, Jabalpur
+    </p>
+    <div class="footer-icons">
+      <a href="https://www.instagram.com/sacdbt/" target="_blank" title="Instagram"><img src="images/insta.png" alt="Instagram" class="footer-icon-img"></a>
+      <a href="https://www.facebook.com/sacdbt" target="_blank" title="Facebook"><img src="images/facebook.png" alt="Facebook" class="footer-icon-img"></a>
+      <a href="https://www.youtube.com/@sacbiotech" target="_blank" title="YouTube"><img src="images/youtube.png" alt="YouTube" class="footer-icon-img"></a>
+      <a href="https://sacbiotech.wordpress.com/" target="_blank" title="Blog"><img src="images/blog.png" alt="Blog" class="footer-icon-img"></a>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
